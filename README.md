@@ -7,7 +7,7 @@
 
 <p>A pictorial sample of the application:</p>
 
-<b />
+![Sample Image](/img/sameple.png)
 
 ## License
 
